@@ -7,7 +7,7 @@
   "vendor": "Deloitte | rohchouhan@deloitte.com",
   "eula": "Deloitte",
   "license": "MIT",
-  "icon": "https://cdn.jsdelivr.net/gh/rohit-chouhan/WarnerBrosDiscoveryDeloitte@1.0.12/icon.png",
+  "icon": "https://cdn.jsdelivr.net/gh/rohit-chouhan/WarnerBrosDiscoveryDeloitte@1.0.12/dist/icon.png",
   "imports": [
     "datasource",
     "planning-model"
@@ -16,7 +16,7 @@
     {
       "kind": "main",
       "tag": "com-rohitchouhan-wbdplanning",
-      "url": "https://cdn.jsdelivr.net/gh/rohit-chouhan/WarnerBrosDiscoveryDeloitte@1.0.12/WBDPlanning.bundle.js",
+      "url": "https://cdn.jsdelivr.net/gh/rohit-chouhan/WarnerBrosDiscoveryDeloitte@1.0.12/dist/WBDPlanning.bundle.js",
       "integrity": "sha256-VJmGqe17XfALvcGSQbJ0EjS0UZUUVov2Iank9aHPKbM=",
       "ignoreIntegrity": true
     }
