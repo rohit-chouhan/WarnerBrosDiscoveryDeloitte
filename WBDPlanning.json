@@ -7,7 +7,7 @@
   "vendor": "Deloitte | rohchouhan@deloitte.com",
   "eula": "Deloitte",
   "license": "MIT",
-  "icon": "https://cdn.jsdelivr.net/gh/rohit-chouhan/WarnerBrosDiscoveryDeloitte@1.0.14/dist/icon.png",
+  "icon": "https://cdn.jsdelivr.net/gh/rohit-chouhan/WarnerBrosDiscoveryDeloitte@latest/dist/icon.png",
   "imports": [
     "datasource",
     "planning-model"
