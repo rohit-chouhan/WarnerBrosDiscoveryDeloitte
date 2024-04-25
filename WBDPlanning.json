@@ -1,6 +1,6 @@
 {
   "id": "com.rohitchouhan.wbdplanning",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "name": "WBD Planning",
   "description": "A Planning Widget of Warner Bros Discovery Project",
   "newInstancePrefix": "WBDPlanning",
