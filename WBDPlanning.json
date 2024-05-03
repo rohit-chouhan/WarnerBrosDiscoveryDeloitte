@@ -1,6 +1,6 @@
 {
   "id": "com.rohitchouhan.wbdplanning",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "name": "WBD Planning",
   "description": "A Planning Widget of Warner Bros Discovery Project",
   "newInstancePrefix": "WBDPlanning",
@@ -16,9 +16,9 @@
     {
       "kind": "main",
       "tag": "com-rohitchouhan-wbdplanning",
-      "url": "https://cdn.jsdelivr.net/gh/rohit-chouhan/WarnerBrosDiscoveryDeloitte@1.0.14/dist/WBDPlanning.bundle.js",
-      "integrity": "sha256-VJmGqe17XfALvcGSQbJ0EjS0UZUUVov2Iank9aHPKbM=",
-      "ignoreIntegrity": true
+      "url": "https://cdn.jsdelivr.net/gh/rohit-chouhan/WarnerBrosDiscoveryDeloitte@1.0.15/dist/WBDPlanning.bundle.js",
+      "integrity": "sha256-I3ZQ5iU2mACVcorUz3wPSGG6gH79WFKAfUvLD6bm6JE=",
+      "ignoreIntegrity": false
     }
   ],
   "properties": {
